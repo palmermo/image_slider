@@ -1,0 +1,19 @@
+#main-container{
+  box-sizing: border-box;
+  background-color:lightgrey;
+  outline: orange 3px solid;
+  height: 50vh;
+  width: 70%;
+  margin-left: 18%;
+  margin-right: 33%;
+  margin-top: 15%;
+}
+
+#image-slider {
+  width: 65%;
+  height: 60%;
+  margin-left: 18%;
+  margin-right: 33%;
+  margin-top: 15%;
+  outline: orange solid 5px;
+}
